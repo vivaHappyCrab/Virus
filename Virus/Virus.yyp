@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "470a648b-83b3-4a85-8232-8dcc7bdba9aa",
+            "Value": {
+                "id": "828613d2-b384-4384-809e-eb9b47414a0f",
+                "resourcePath": "objects\\ButtonUp\\ButtonUp.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "489cb664-31cf-47f0-8601-02f529daf870",
             "Value": {
                 "id": "d5e6c3cc-ac46-4ec4-b057-84d57cf5ecbb",
@@ -287,6 +295,14 @@
             }
         },
         {
+            "Key": "862cde82-979f-4e7c-979e-4659f48cd980",
+            "Value": {
+                "id": "33b35a0a-b4a0-437c-80c8-12eac8adbde4",
+                "resourcePath": "views\\862cde82-979f-4e7c-979e-4659f48cd980.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "8656f806-4b7d-4cb7-8488-213f8ed173cc",
             "Value": {
                 "id": "76a8fe7c-7c93-447b-89df-69e008e1bdcd",
@@ -316,6 +332,14 @@
                 "id": "08d24505-db0d-457d-abf1-40a673444957",
                 "resourcePath": "objects\\RLeg\\RLeg.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8e6f63ba-1642-4736-9a21-f40fe4d7e160",
+            "Value": {
+                "id": "5c5d5684-6186-4dd3-97e9-e3c823d11cb9",
+                "resourcePath": "sprites\\SpiteBtn1\\SpiteBtn1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
