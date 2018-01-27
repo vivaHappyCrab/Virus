@@ -153,6 +153,20 @@
             "value": "True",
             "varName": "Plagued",
             "varType": 3
+        },
+        {
+            "id": "53c78ec8-cd6d-4ae5-91b6-4236af9881cf",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "2",
+            "varName": "ChargeRegen",
+            "varType": 0
         }
     ],
     "solid": false,
