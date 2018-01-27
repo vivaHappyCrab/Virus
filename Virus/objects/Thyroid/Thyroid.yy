@@ -25,20 +25,12 @@
             "value": "50"
         },
         {
-            "id": "76b7921f-6a5b-4141-9086-91a0dc0b02e3",
-            "modelName": "GMOverriddenProperty",
-            "mvc": "1.0",
-            "objectId": "acf4fb71-2f77-4815-bc44-9221f3415e41",
-            "propertyId": "4c1d9e0c-4e47-4bed-923a-b0c2c4f3f9a9",
-            "value": "80"
-        },
-        {
             "id": "67f25f0d-cccd-423b-a073-91df9d8fc709",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",
             "objectId": "acf4fb71-2f77-4815-bc44-9221f3415e41",
             "propertyId": "6a4d91e7-20d4-4b9d-9f63-8577a3091493",
-            "value": "60"
+            "value": "40"
         },
         {
             "id": "bf23f3a7-09c1-4482-bd85-ce5491e05afa",
@@ -46,7 +38,7 @@
             "mvc": "1.0",
             "objectId": "acf4fb71-2f77-4815-bc44-9221f3415e41",
             "propertyId": "9882b504-062f-4ddc-b7f7-b898a1ee7ede",
-            "value": "30"
+            "value": "3"
         },
         {
             "id": "d2a63e34-3348-45c5-8621-05d8774f610c",

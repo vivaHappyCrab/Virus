@@ -1,5 +1,8 @@
 if(global.Upgrade)
 {
-	global.VirusSpeed+=10;
-	global.Upgrade=false;
+	if(global.VirusSpeed<10)
+	{
+		global.VirusSpeed+=1;
+		global.Upgrade=false;
+	}
 }

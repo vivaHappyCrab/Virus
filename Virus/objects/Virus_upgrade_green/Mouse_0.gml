@@ -1,5 +1,8 @@
 if(global.Upgrade)
 {
-	global.VirusStamina+=10;
-	global.Upgrade=false;
+	if(global.VirusStamina<10)
+	{
+		global.VirusStamina+=1;
+		global.Upgrade=false;
+	}
 }

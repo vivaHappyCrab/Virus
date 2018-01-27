@@ -1,5 +1,8 @@
 if(global.Upgrade)
 {
-	global.VirusStealth+=10;
-	global.Upgrade=false;
+	if(global.VirusStealth<10)
+	{
+		global.VirusStealth+=1;
+		global.Upgrade=false;
+	}
 }
