@@ -359,6 +359,14 @@
             }
         },
         {
+            "Key": "8cc88b83-07af-4270-9e0b-828be63f3c36",
+            "Value": {
+                "id": "48657bb5-6340-4a76-94f8-45de36d2897d",
+                "resourcePath": "sprites\\virus_grey\\virus_grey.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8e6f63ba-1642-4736-9a21-f40fe4d7e160",
             "Value": {
                 "id": "5c5d5684-6186-4dd3-97e9-e3c823d11cb9",
