@@ -13,6 +13,16 @@
             "enumb": 4,
             "eventtype": 6,
             "m_owner": "acf4fb71-2f77-4815-bc44-9221f3415e41"
+        },
+        {
+            "id": "03a6c8a4-d74a-4a70-8d7e-4872b1bfbaa4",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "acf4fb71-2f77-4815-bc44-9221f3415e41"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,7 +53,7 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "0",
-            "varName": "Durabilty",
+            "varName": "Durability",
             "varType": 0
         },
         {
@@ -89,20 +99,6 @@
             "varType": 0
         },
         {
-            "id": "4c1d9e0c-4e47-4bed-923a-b0c2c4f3f9a9",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "0",
-            "varName": "MaxDurability",
-            "varType": 0
-        },
-        {
             "id": "ae9eea72-7de9-45bc-bf15-0b5d9eb81b28",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
@@ -115,6 +111,48 @@
             "value": "Organ",
             "varName": "Name",
             "varType": 2
+        },
+        {
+            "id": "a2c91804-0e08-4a63-96f6-2ee3deea7f4f",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "VirusAmount",
+            "varType": 0
+        },
+        {
+            "id": "d1874490-6c82-4dc7-a635-da0c97c9c106",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "RegenerationProgress",
+            "varType": 0
+        },
+        {
+            "id": "56e731a7-36b0-48ba-ae66-9da7acc9bb22",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "True",
+            "varName": "Plagued",
+            "varType": 3
         }
     ],
     "solid": false,

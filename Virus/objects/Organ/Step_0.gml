@@ -1,0 +1,19 @@
+if(global.stepCount%40==0 && Plagued)
+{
+	VirusAmount+=global.VirusStamina-Regeneration;
+	if(VirusAmount>Durability*0.2)
+	{
+		RegenerationProgress+=1;
+	}
+	if(RegenerationProgress==10){
+		RegenerationProgress=0;
+		Regeneration++;
+	}
+	if(VirusAmount<0){
+		Plagued=false;
+		VirusAmount=0;
+	}
+	if(VirusAmount>Durability){
+		instance_destroy();
+	}
+}

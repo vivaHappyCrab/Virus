@@ -1,15 +1,16 @@
 window_set_fullscreen(true);
 
 
-global.HP=200;
+global.HP=100;
 global.Detection=0;
 global.CriticalDetection=100;
 global.InfoText="";
 global.Upgrade=false;
 global.VirusPower=0;
 global.VirusSpeed=0;
-global.VirusStamina=0;
+global.VirusStamina=20;
 global.VirusStealth=0;
+global.stepCount=0;
 
 draw_set_font(font_standart);
 //for(var i=0;i<10;i++)

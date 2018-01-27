@@ -6,4 +6,11 @@ var a=draw_get_alpha();
 var c=draw_get_color();
 
 draw_set_alpha(1);
-draw_set_color(c_blue);
+draw_set_color(c_red);
+draw_text(128,384,"HP");
+
+draw_set_color(c_yellow);
+draw_text(80,480,"Detection");
+
+draw_set_alpha(a);
+draw_set_color(c);

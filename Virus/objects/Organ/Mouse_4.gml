@@ -1,1 +1,1 @@
-global.InfoText=Name;
+global.InfoText=string(VirusAmount);
