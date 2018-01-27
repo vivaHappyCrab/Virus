@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "29046bd1-6795-4d9c-8465-19f9e1d8a9bc",
+            "Value": {
+                "id": "97e5683b-8ec6-48e9-8a14-41188ec88961",
+                "resourcePath": "sprites\\sprite17\\sprite17.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "29e29502-12de-4712-a849-a6ef8b053810",
             "Value": {
                 "id": "0c5f9946-2a47-4790-aec1-5e50b330d3aa",
@@ -191,6 +199,14 @@
             }
         },
         {
+            "Key": "6cd72788-2d83-47f8-b805-fb6a3966beb1",
+            "Value": {
+                "id": "b0542bd0-0b52-4d72-83b9-b232a3140b4b",
+                "resourcePath": "objects\\Virus_upgrade_blue\\Virus_upgrade_blue.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "72a8e562-d02c-4651-ad9f-9e29ad897a60",
             "Value": {
                 "id": "ceb172f3-1174-4510-86cd-fafd46fa09e6",
@@ -220,6 +236,22 @@
                 "id": "ac9ef973-38fd-4aca-b647-4a351b10fc93",
                 "resourcePath": "options\\windowsuap\\options_windowsuap.yy",
                 "resourceType": "GMWindowsUAPOptions"
+            }
+        },
+        {
+            "Key": "7e237e1a-8fbd-47f2-b9ca-b9166a327b6e",
+            "Value": {
+                "id": "00e054c1-1a08-41a9-8c61-e102a1e8704f",
+                "resourcePath": "objects\\Virus_upgrade_red\\Virus_upgrade_red.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7fb22a0f-b0bf-42f2-a68e-b9c6c19eb339",
+            "Value": {
+                "id": "3b776722-4acf-4235-abd1-a9a888c48340",
+                "resourcePath": "sprites\\sprite15\\sprite15.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -303,6 +335,14 @@
             }
         },
         {
+            "Key": "a58811a6-a7d8-44df-9f22-436db4b925db",
+            "Value": {
+                "id": "5a01f246-bc20-40b6-bdd2-6f05823cb2c2",
+                "resourcePath": "views\\a58811a6-a7d8-44df-9f22-436db4b925db.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "a65a5f21-37ab-4fd6-9435-df8b5281421c",
             "Value": {
                 "id": "1ba6121a-ec81-4ec7-a602-672514d5a3bd",
@@ -380,6 +420,14 @@
                 "id": "73b8a94e-45f1-47ff-bdde-39bd9a62c182",
                 "resourcePath": "sprites\\sprite10\\sprite10.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ba5be374-6c9d-4a2e-ba1b-fd5dfad38e4f",
+            "Value": {
+                "id": "67000d8f-cbbd-4ef9-973e-af434bc41ac7",
+                "resourcePath": "objects\\Virus_upgrade_green\\Virus_upgrade_green.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -487,6 +535,14 @@
             }
         },
         {
+            "Key": "df2a6f78-3145-46b1-81fc-236d1b5d712c",
+            "Value": {
+                "id": "468800a5-ea94-4a6e-b009-236edb924681",
+                "resourcePath": "sprites\\sprite18\\sprite18.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e10ff355-8879-4bf2-80ff-9fa918496528",
             "Value": {
                 "id": "4bcf5e4a-5569-4912-82f1-e0002677a524",
@@ -508,6 +564,22 @@
                 "id": "78ffa38f-b956-4554-b66f-027408ebf65b",
                 "resourcePath": "options\\android\\options_android.yy",
                 "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
+            "Key": "e5bcab4e-cc48-4258-a769-ea61ad982eaa",
+            "Value": {
+                "id": "faca833e-dfd2-4ceb-af69-f1dd4abe2692",
+                "resourcePath": "sprites\\sprite16\\sprite16.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e692bbe7-210b-4a20-9f05-a45664b41ec1",
+            "Value": {
+                "id": "fcb71798-53f2-4cfd-9015-d94dbba49dd9",
+                "resourcePath": "objects\\Virus_upgrade_yellow\\Virus_upgrade_yellow.yy",
+                "resourceType": "GMObject"
             }
         },
         {
