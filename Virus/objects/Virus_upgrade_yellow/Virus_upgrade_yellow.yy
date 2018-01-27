@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "Virus_upgrade_yellow",
     "eventList": [
-        
+        {
+            "id": "6d3832bc-7573-4b96-9adc-62dde14d944e",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 6,
+            "m_owner": "e692bbe7-210b-4a20-9f05-a45664b41ec1"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

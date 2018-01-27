@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "Virus_upgrade_blue",
     "eventList": [
-        
+        {
+            "id": "b3fb6150-5487-4b91-a96f-82c2fe0195ae",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 6,
+            "m_owner": "6cd72788-2d83-47f8-b805-fb6a3966beb1"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

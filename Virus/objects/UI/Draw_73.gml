@@ -1,2 +1,3 @@
 DisplayInfo();
 DisplayVirus();
+DisplayHuman();
