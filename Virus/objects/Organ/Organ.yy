@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "Organ",
     "eventList": [
-        
+        {
+            "id": "9538659a-b6d8-4fc9-8b29-d8fcf1ae57b6",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 4,
+            "eventtype": 6,
+            "m_owner": "acf4fb71-2f77-4815-bc44-9221f3415e41"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -92,6 +101,20 @@
             "value": "0",
             "varName": "MaxDurability",
             "varType": 0
+        },
+        {
+            "id": "ae9eea72-7de9-45bc-bf15-0b5d9eb81b28",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "Organ",
+            "varName": "Name",
+            "varType": 2
         }
     ],
     "solid": false,

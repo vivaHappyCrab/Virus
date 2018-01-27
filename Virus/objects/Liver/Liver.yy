@@ -4,16 +4,7 @@
     "mvc": "1.0",
     "name": "Liver",
     "eventList": [
-        {
-            "id": "42e6375d-74d7-4b59-89a2-b20ebaabc6a1",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 4,
-            "eventtype": 6,
-            "m_owner": "bb09eeb2-b74a-4ac8-ae27-93c8237fa3c0"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
@@ -56,6 +47,14 @@
             "objectId": "acf4fb71-2f77-4815-bc44-9221f3415e41",
             "propertyId": "4c1d9e0c-4e47-4bed-923a-b0c2c4f3f9a9",
             "value": "100"
+        },
+        {
+            "id": "00e95302-5808-40f7-bccd-9b11061d3ff7",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "acf4fb71-2f77-4815-bc44-9221f3415e41",
+            "propertyId": "ae9eea72-7de9-45bc-bf15-0b5d9eb81b28",
+            "value": "Печень"
         }
     ],
     "parentObjectId": "acf4fb71-2f77-4815-bc44-9221f3415e41",
