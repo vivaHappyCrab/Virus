@@ -407,6 +407,14 @@
             }
         },
         {
+            "Key": "acb45fbb-d176-4493-a5da-a6404c50c446",
+            "Value": {
+                "id": "5e0e1716-4c16-41d4-8e79-bd26eb7e0f10",
+                "resourcePath": "scripts\\DisplayVirus\\DisplayVirus.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "acf4fb71-2f77-4815-bc44-9221f3415e41",
             "Value": {
                 "id": "7a6c8070-582b-42d0-81d1-7df4db26d6b4",
@@ -543,6 +551,14 @@
             }
         },
         {
+            "Key": "da3a2d3d-54a8-40ed-b1f9-aeb160025195",
+            "Value": {
+                "id": "56b8caa0-b910-4f96-b27f-a7c2388e9bd7",
+                "resourcePath": "fonts\\font_standart\\font_standart.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "da918195-65ae-4ce9-9d56-763777c3fa7c",
             "Value": {
                 "id": "5ff5f0b9-d45d-45a6-ae68-d0dd9f83be95",
@@ -632,7 +648,8 @@
         }
     ],
     "script_order": [
-        "3a0795f4-a1d3-4baa-9627-cf5593fcee7e"
+        "3a0795f4-a1d3-4baa-9627-cf5593fcee7e",
+        "acb45fbb-d176-4493-a5da-a6404c50c446"
     ],
     "tutorial": ""
 }

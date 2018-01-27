@@ -1,1 +1,2 @@
 DisplayInfo();
+DisplayVirus();
