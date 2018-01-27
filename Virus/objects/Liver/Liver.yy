@@ -22,7 +22,7 @@
             "mvc": "1.0",
             "objectId": "acf4fb71-2f77-4815-bc44-9221f3415e41",
             "propertyId": "6a4d91e7-20d4-4b9d-9f63-8577a3091493",
-            "value": "50"
+            "value": "40"
         },
         {
             "id": "8774b64e-fae5-4fbd-ae3f-de3640100837",
@@ -30,7 +30,7 @@
             "mvc": "1.0",
             "objectId": "acf4fb71-2f77-4815-bc44-9221f3415e41",
             "propertyId": "e8101870-edde-4ec9-845c-d65a836fe5fb",
-            "value": "25"
+            "value": "40"
         },
         {
             "id": "9c4ca7a9-ea2d-495e-a0d2-b06d654a3e66",
@@ -38,7 +38,7 @@
             "mvc": "1.0",
             "objectId": "acf4fb71-2f77-4815-bc44-9221f3415e41",
             "propertyId": "5d724c65-9560-487f-8b66-7db873cc2003",
-            "value": "100"
+            "value": "90"
         },
         {
             "id": "9ec79320-3027-49ac-86b4-181046053212",
@@ -46,7 +46,7 @@
             "mvc": "1.0",
             "objectId": "acf4fb71-2f77-4815-bc44-9221f3415e41",
             "propertyId": "4c1d9e0c-4e47-4bed-923a-b0c2c4f3f9a9",
-            "value": "100"
+            "value": "90"
         },
         {
             "id": "00e95302-5808-40f7-bccd-9b11061d3ff7",
@@ -54,7 +54,7 @@
             "mvc": "1.0",
             "objectId": "acf4fb71-2f77-4815-bc44-9221f3415e41",
             "propertyId": "ae9eea72-7de9-45bc-bf15-0b5d9eb81b28",
-            "value": "Печень"
+            "value": "Lyver"
         }
     ],
     "parentObjectId": "acf4fb71-2f77-4815-bc44-9221f3415e41",
