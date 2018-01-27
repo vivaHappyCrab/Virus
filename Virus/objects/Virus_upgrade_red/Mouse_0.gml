@@ -1,8 +1,8 @@
-if(global.Upgrade)
+if(global.Upgrades>0)
 {
 	if(global.VirusPower<10)
 	{
 		global.VirusPower+=1;
-		global.Upgrade=false;
+		global.Upgrades-=1
 	}
 }
