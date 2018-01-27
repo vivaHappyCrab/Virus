@@ -9,44 +9,52 @@
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
         {
-            "id": "4ef54b9d-7311-4f2c-b2e9-886c3220913e",
+            "id": "652d1d99-c7e6-4dd1-b594-09f4687cecdd",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",
             "objectId": "acf4fb71-2f77-4815-bc44-9221f3415e41",
             "propertyId": "5d724c65-9560-487f-8b66-7db873cc2003",
-            "value": "170"
+            "value": "30"
         },
         {
-            "id": "564b08b9-68df-4a0d-a64d-14d13035229e",
+            "id": "6f398928-20e7-4330-8b21-72d0689fed30",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",
             "objectId": "acf4fb71-2f77-4815-bc44-9221f3415e41",
             "propertyId": "9882b504-062f-4ddc-b7f7-b898a1ee7ede",
-            "value": "5"
+            "value": "40"
         },
         {
-            "id": "9977035a-110d-4ac9-ac2a-abfee64f1459",
+            "id": "f869d9e1-f1ca-406f-a6f1-cb390110726a",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",
             "objectId": "acf4fb71-2f77-4815-bc44-9221f3415e41",
             "propertyId": "6a4d91e7-20d4-4b9d-9f63-8577a3091493",
-            "value": "60"
+            "value": "30"
         },
         {
-            "id": "7a708a24-094c-424b-b9df-51168b74f458",
+            "id": "cac32983-b060-4ec2-abbd-887bd4fe9f35",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",
             "objectId": "acf4fb71-2f77-4815-bc44-9221f3415e41",
             "propertyId": "e8101870-edde-4ec9-845c-d65a836fe5fb",
-            "value": "40"
+            "value": "50"
         },
         {
-            "id": "67ae3ac8-99af-4ec9-be0e-76aabbd39aee",
+            "id": "6357cb4a-7490-4f21-81e1-d11b3b0b056a",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",
             "objectId": "acf4fb71-2f77-4815-bc44-9221f3415e41",
             "propertyId": "4c1d9e0c-4e47-4bed-923a-b0c2c4f3f9a9",
-            "value": "170"
+            "value": "30"
+        },
+        {
+            "id": "73cadf90-cc31-4c6d-8ac4-8b47998464aa",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "acf4fb71-2f77-4815-bc44-9221f3415e41",
+            "propertyId": "ae9eea72-7de9-45bc-bf15-0b5d9eb81b28",
+            "value": "Stomach"
         }
     ],
     "parentObjectId": "acf4fb71-2f77-4815-bc44-9221f3415e41",
