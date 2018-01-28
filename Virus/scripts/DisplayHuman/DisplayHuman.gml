@@ -33,6 +33,9 @@ for(var i=0;i<global.OrganAmount;++i)
 			k++;
 		}
 	}
+	draw_set_font(Big);
+	draw_text_color(800,64,"Active effect: "+global.Event,c_red,c_maroon,c_red,c_maroon,1);
+	draw_set_font(font_standart);
 	
 	
 draw_set_alpha(a);

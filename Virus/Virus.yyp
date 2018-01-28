@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "2a5b3bd5-af9e-41aa-a26b-fd9c884550a6",
+            "Value": {
+                "id": "ac1d0d88-e129-4bb8-ac9c-8398790c9ba8",
+                "resourcePath": "scripts\\GenerateEffect\\GenerateEffect.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "2c8caf6f-3ed5-49fa-9ee8-b3085f415081",
             "Value": {
                 "id": "de9bdcc2-679b-47f0-b0d3-544e216c7059",
@@ -242,7 +250,7 @@
             "Key": "6f43621b-7f4f-403e-b26c-9f64763a6cc8",
             "Value": {
                 "id": "76329166-0d22-4b54-b0bd-a2aa3938baac",
-                "resourcePath": "scripts\\script4\\script4.yy",
+                "resourcePath": "scripts\\RemoveEffect\\RemoveEffect.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -495,6 +503,14 @@
             }
         },
         {
+            "Key": "b1e1edfe-8bd8-4d55-8c5f-d0999a2e508d",
+            "Value": {
+                "id": "726ef09f-058c-4db4-839b-c32e1408da3d",
+                "resourcePath": "fonts\\Big\\Big.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "b2166002-8ed6-4335-9b95-40871e5bcb66",
             "Value": {
                 "id": "89b71be9-add2-4e81-a178-4debb4430850",
@@ -734,7 +750,8 @@
         "01b79bd0-2b9f-4edd-8bc1-832fcc7a857a",
         "74e09a44-4545-42e8-a661-7950e759f3b6",
         "9ce404d8-159a-453c-8631-9477246e5e10",
-		"6f43621b-7f4f-403e-b26c-9f64763a6cc8"
-		],
+        "6f43621b-7f4f-403e-b26c-9f64763a6cc8",
+        "2a5b3bd5-af9e-41aa-a26b-fd9c884550a6"
+    ],
     "tutorial": ""
 }

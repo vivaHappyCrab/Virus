@@ -7,12 +7,15 @@ global.CriticalDetection=200;
 global.InfoText="";
 global.Upgrades=1;
 global.VirusPower=0;
-global.VirusSpeed=0;
+global.VirusSpeed=1;
 global.VirusStamina=5;
 global.VirusStealth=0;
 global.stepCount=0;
 global.Clicked=false;
 global.Selected=0;
+global.Event="";
+global.RemoveAdditionalRegen=-1;
+global.RemoveLiverDebuff=-1;
 
 global.OrganAmount=instance_number(Organ);
 randomize();
@@ -23,7 +26,13 @@ for(var i=0;i<global.OrganAmount;++i)
 	global.DisplayOrgan[i]=false;
 }
 
-	var n=irandom(globals.OrganAmount-1);
+	var n=irandom(global.OrganAmount-1);
+	global.Organs[n].Plagued=true;
+	global.Organs[n].VirusAmount=0.1*global.Organs[n].Durability;
+	global.VirusStamina=global.Organs[n].Regeneration;
+	global.VirusStealth=irandom(9-global.VirusStamina);
+	global.VirusPower=9-global.VirusStamina-global.VirusStealth;
+	
 	for(var i=0;i<3*global.OrganAmount;++i)
 	{
 		var first=irandom(global.OrganAmount-1);

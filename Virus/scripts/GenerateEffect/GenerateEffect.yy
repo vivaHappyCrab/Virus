@@ -1,8 +1,8 @@
 {
-    "id": "6f43621b-7f4f-403e-b26c-9f64763a6cc8",
+    "id": "2a5b3bd5-af9e-41aa-a26b-fd9c884550a6",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "script4",
+    "name": "GenerateEffect",
     "IsCompatibility": false,
     "IsDnD": false
 }

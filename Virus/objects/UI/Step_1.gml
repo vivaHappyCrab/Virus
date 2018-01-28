@@ -14,7 +14,13 @@ if !audio_is_playing(global.Sound_on) {
 		global.Sound_on = audio_play_sound(Music3, 1, false);
 	}
 }	
+RemoveEffect();
 
-if(global.stepCount%200==0)
+if(global.stepCount%300==0){
 	global.Upgrades++;
+	if(irandom(1)==0){
+		GenerateEffect();
+	}
+}
+	
 
