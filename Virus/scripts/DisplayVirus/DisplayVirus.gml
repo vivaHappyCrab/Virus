@@ -14,5 +14,10 @@ draw_text(1640,236,"Stealth: "+string(global.VirusStealth));
 draw_set_color(c_red);
 draw_text(1640,300,"Lethal power: "+string(global.VirusPower));
 
+for(var i=0;i<global.OrganAmount;++i)
+	if(global.DisplayOrgan[i])
+	with(global.Organs[i])
+		DrawLBar(x+sprite_width/3,y+sprite_height/3,VirusAmount/Durability);
+
 draw_set_alpha(a);
 draw_set_color(c);
