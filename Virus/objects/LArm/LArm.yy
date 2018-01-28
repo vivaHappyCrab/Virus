@@ -14,7 +14,7 @@
             "mvc": "1.0",
             "objectId": "acf4fb71-2f77-4815-bc44-9221f3415e41",
             "propertyId": "ae9eea72-7de9-45bc-bf15-0b5d9eb81b28",
-            "value": "LArm"
+            "value": "Left Arm"
         }
     ],
     "parentObjectId": "81b2b8e1-8ddf-41e5-8f20-b247bc4bd0de",

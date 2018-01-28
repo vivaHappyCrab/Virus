@@ -8,7 +8,14 @@
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
-        
+        {
+            "id": "4b1df63e-f9bb-44a2-8829-f689321cb2bf",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "acf4fb71-2f77-4815-bc44-9221f3415e41",
+            "propertyId": "ae9eea72-7de9-45bc-bf15-0b5d9eb81b28",
+            "value": "Right Leg"
+        }
     ],
     "parentObjectId": "e10ff355-8879-4bf2-80ff-9fa918496528",
     "persistent": false,
