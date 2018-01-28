@@ -1,5 +1,4 @@
 global.stepCount++;
-SetHumanHp();
 global.Clicked=false;
 
 if !audio_is_playing(global.Sound_on) {
@@ -16,11 +15,28 @@ if !audio_is_playing(global.Sound_on) {
 }	
 RemoveEffect();
 
-if(global.stepCount%300==0){
+if(global.Detection>=global.CriticalDetection)
+{
+	global.Event="YOU LOSE!!!";
+	global.Event_description="Try one more time!!";
+	global.End=true;
+}
+if(global.HP<=0){
+	global.Event="YOU WON!!!";
+	global.Event_description="Congratz! Hope you enjoy killing human...";
+	global.End=true;
+}
+
+if(global.stepCount%300==0 && !global.End){
 	global.Upgrades++;
 	if(irandom(1)==0){
 		GenerateEffect();
 	}
+SetHumanHp();
 }
+
+
+
+
 	
 

@@ -2,6 +2,7 @@ window_set_fullscreen(true);
 
 
 global.MaxHP=200;
+global.HP=200;
 global.Detection=0;
 global.CriticalDetection=200;
 global.InfoText="";
@@ -19,6 +20,7 @@ global.RemoveSmoke=-1;
 global.RemoveAdditionalRegen=-1;
 global.RemoveLiverDebuff=-1;
 global.RemoveIndianDebuff=-1;
+global.End=false;
 
 global.OrganAmount=instance_number(Organ);
 randomize();

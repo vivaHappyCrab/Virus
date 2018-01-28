@@ -19,5 +19,11 @@ for(var i=0;i<global.OrganAmount;++i)
 	with(global.Organs[i])
 		DrawLBar(x+sprite_width/3,y+sprite_height/3,VirusAmount/Durability);
 
+draw_set_color(c_blue);
+draw_text(global.Abilities[0].x+16,global.Abilities[0].y-32,"Drunken masta");
+
+draw_set_color(c_blue);
+draw_text(global.Abilities[1].x+8,global.Abilities[1].y-32,"Progress machine");
+
 draw_set_alpha(a);
 draw_set_color(c);

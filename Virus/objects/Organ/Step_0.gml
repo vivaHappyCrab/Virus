@@ -1,4 +1,4 @@
-if(global.stepCount%60==0 && Plagued)
+if(global.stepCount%60==0 && Plagued && !global.End)
 {
 	VirusAmount+=global.VirusStamina-Regeneration;
 	if(VirusAmount>Durability*0.2 && ChargeRegen>0)
