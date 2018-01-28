@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "2e999cb6-65da-4d83-83b5-e424ec67528a",
+            "Value": {
+                "id": "41676ae5-5648-4bd7-a57f-ec222da4629a",
+                "resourcePath": "sounds\\Music\\Music.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "2f888eb2-48e7-4e6a-bab1-f0651fa5ba22",
             "Value": {
                 "id": "392f5027-8e7a-4cbb-bcfb-2d6d22596300",
@@ -228,6 +236,14 @@
                 "id": "b0542bd0-0b52-4d72-83b9-b232a3140b4b",
                 "resourcePath": "objects\\Virus_upgrade_blue\\Virus_upgrade_blue.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6f43621b-7f4f-403e-b26c-9f64763a6cc8",
+            "Value": {
+                "id": "76329166-0d22-4b54-b0bd-a2aa3938baac",
+                "resourcePath": "scripts\\script4\\script4.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -428,6 +444,14 @@
                 "id": "6e402941-997a-4b40-af31-61c1f517d2ec",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "aba8c7a4-c629-4790-a644-90db53f6c82a",
+            "Value": {
+                "id": "e3b6759a-9b23-4cf9-8266-bbb5e61988c9",
+                "resourcePath": "sounds\\Music3\\Music3.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -639,6 +663,14 @@
             }
         },
         {
+            "Key": "e4b04bea-d02d-4a96-ac2f-8e99e2ddf02f",
+            "Value": {
+                "id": "2baed554-64e3-472c-a250-0e46b86dd7b2",
+                "resourcePath": "sounds\\Music2\\Music2.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "e5bcab4e-cc48-4258-a769-ea61ad982eaa",
             "Value": {
                 "id": "faca833e-dfd2-4ceb-af69-f1dd4abe2692",
@@ -683,7 +715,8 @@
         "3a0795f4-a1d3-4baa-9627-cf5593fcee7e",
         "acb45fbb-d176-4493-a5da-a6404c50c446",
         "d46b82fc-5754-4894-b46b-9040b97846f8",
-        "01b79bd0-2b9f-4edd-8bc1-832fcc7a857a"
+        "01b79bd0-2b9f-4edd-8bc1-832fcc7a857a",
+        "6f43621b-7f4f-403e-b26c-9f64763a6cc8"
     ],
     "tutorial": ""
 }
