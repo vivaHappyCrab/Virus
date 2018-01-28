@@ -14,6 +14,7 @@ global.stepCount=0;
 global.Clicked=false;
 global.Selected=0;
 global.Event="";
+global.Event_description="";
 global.RemoveAdditionalRegen=-1;
 global.RemoveLiverDebuff=-1;
 
