@@ -2,7 +2,7 @@
     "id": "8e6f63ba-1642-4736-9a21-f40fe4d7e160",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "SpiteBtn1",
+    "name": "SpriteBtn1",
     "For3D": false,
     "HTile": false,
     "VTile": false,

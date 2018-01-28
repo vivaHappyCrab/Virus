@@ -65,13 +65,17 @@ for(var i=0;i<global.OrganAmount;++i)
 		//		global.InfoText+=(string(ds_grid_get(global.Ways,i,j))+" ");
 		//	global.InfoText+="\n";
 		//}
-		global.InfoText=string(ds_grid_get_sum(global.Ways,0,0,global.OrganAmount,global.OrganAmount));
+		//global.InfoText=string(ds_grid_get_sum(global.Ways,0,0,global.OrganAmount,global.OrganAmount));
+		
+	global.BtnAmount=instance_number(Ability);
+
+	for(var i=0;i<global.BtnAmount;++i)
+	{
+		global.Abilities[i]=instance_find(Ability,i);
+	}
 
 draw_set_font(font_standart);
-//for(var i=0;i<10;i++)
-//{
-//	var liver=instance_create_depth(50*i,50+70*i,0,Liver);
-//}
+
 
 
 		

@@ -2,26 +2,26 @@
     "id": "470a648b-83b3-4a85-8232-8dcc7bdba9aa",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "ButtonUp",
+    "name": "Ability",
     "eventList": [
         {
-            "id": "e0b8a4db-b534-4bc4-8c62-4c3871131ab6",
+            "id": "5eb09042-f8a0-4c76-af76-e9a5b3820809",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 6,
+            "enumb": 1,
+            "eventtype": 3,
             "m_owner": "470a648b-83b3-4a85-8232-8dcc7bdba9aa"
         },
         {
-            "id": "c45a82ff-9a04-44e7-b734-7fa4dba14b71",
+            "id": "49c54da4-7a42-40da-b400-17667257a0cb",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 2,
-            "eventtype": 7,
+            "enumb": 4,
+            "eventtype": 6,
             "m_owner": "470a648b-83b3-4a85-8232-8dcc7bdba9aa"
         }
     ],
@@ -41,7 +41,36 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "b3bddd61-4bcc-4e9c-8138-fadef6322477",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "false",
+            "varName": "Active",
+            "varType": 3
+        },
+        {
+            "id": "a6a7e5d3-4d27-4341-b5a4-11a0d6e4564f",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "Charges",
+            "varType": 0
+        }
+    ],
     "solid": false,
     "spriteId": "8e6f63ba-1642-4736-9a21-f40fe4d7e160",
     "visible": true

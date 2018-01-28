@@ -197,6 +197,20 @@
             "value": "2",
             "varName": "ChargeRegen",
             "varType": 0
+        },
+        {
+            "id": "313e61c2-9eaf-4881-aaa9-3503a49f8df8",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "True",
+            "varName": "GetAbility",
+            "varType": 3
         }
     ],
     "solid": false,

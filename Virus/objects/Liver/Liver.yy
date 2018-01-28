@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "Liver",
     "eventList": [
-        
+        {
+            "id": "52d9b9bf-02cd-4712-a129-d0469a2a5a5d",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "bb09eeb2-b74a-4ac8-ae27-93c8237fa3c0"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [

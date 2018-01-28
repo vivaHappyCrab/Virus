@@ -186,7 +186,7 @@
             "Key": "470a648b-83b3-4a85-8232-8dcc7bdba9aa",
             "Value": {
                 "id": "828613d2-b384-4384-809e-eb9b47414a0f",
-                "resourcePath": "objects\\ButtonUp\\ButtonUp.yy",
+                "resourcePath": "objects\\Ability\\Ability.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -394,7 +394,7 @@
             "Key": "8e6f63ba-1642-4736-9a21-f40fe4d7e160",
             "Value": {
                 "id": "5c5d5684-6186-4dd3-97e9-e3c823d11cb9",
-                "resourcePath": "sprites\\SpiteBtn1\\SpiteBtn1.yy",
+                "resourcePath": "sprites\\SpriteBtn1\\SpriteBtn1.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -444,6 +444,14 @@
                 "id": "2a0944da-7b20-4564-b988-bffe5047bb8a",
                 "resourcePath": "objects\\RArm\\RArm.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a7910462-a51e-4369-83d5-431cf3c41d3d",
+            "Value": {
+                "id": "4cbbc783-06d8-4778-9d46-36983570c859",
+                "resourcePath": "scripts\\CastAbility\\CastAbility.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -727,6 +735,14 @@
             }
         },
         {
+            "Key": "edc8da9e-9685-4ce6-8800-7e261af0f6ea",
+            "Value": {
+                "id": "3476ab99-3862-4bb2-8fb5-f80e75bae008",
+                "resourcePath": "sprites\\SpriteBtn2\\SpriteBtn2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "6d90f87c-e708-4418-9eae-013b6560b193",
@@ -751,7 +767,8 @@
         "74e09a44-4545-42e8-a661-7950e759f3b6",
         "9ce404d8-159a-453c-8631-9477246e5e10",
         "6f43621b-7f4f-403e-b26c-9f64763a6cc8",
-        "2a5b3bd5-af9e-41aa-a26b-fd9c884550a6"
+        "2a5b3bd5-af9e-41aa-a26b-fd9c884550a6",
+        "a7910462-a51e-4369-83d5-431cf3c41d3d"
     ],
     "tutorial": ""
 }
