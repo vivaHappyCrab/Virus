@@ -13,15 +13,27 @@ draw_set_color(c_yellow);
 draw_text(1656,480,"Detection");
 
 for(var i=0;i<global.OrganAmount;++i)
-	if(global.Organs[i].id==global.Selected)
-	with(global.Organs[i]){
-		if(Plagued)
-			draw_set_color(c_red);
-		else
-			draw_set_color(c_yellow);
-		draw_text(1656,608,Name);
-		DrawBar(1640,640,(VirusAmount/Durability));
+	if(global.Organs[i].id==global.Selected){
+		with(global.Organs[i]){
+			if(Plagued)
+				draw_set_color(c_red);
+			else
+				draw_set_color(c_yellow);
+			draw_text(1656,608,Name);
+			DrawBar(1640,640,(VirusAmount/Durability));
+		}
+		
+		var k=0;
+		for(var j=0;j<global.OrganAmount;++j)
+		if(ds_grid_get(global.Ways,i,j)==1 && !global.Organs[j].Plagued){
+			with(global.Organs[j]){
+				var y_scale=64/sprite_get_height(sprite_index);
+				draw_sprite_ext(sprite_index,-1,1640,704+64*k,y_scale*image_xscale/image_yscale,y_scale,image_angle,c_white,1);	
+			}
+			k++;
+		}
 	}
+	
 	
 draw_set_alpha(a);
 draw_set_color(c);

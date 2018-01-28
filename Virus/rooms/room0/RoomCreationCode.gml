@@ -20,12 +20,10 @@ randomize();
 for(var i=0;i<global.OrganAmount;++i)
 {
 	global.Organs[i]=instance_find(Organ,i);
-	var bool = random(2);
-	if(bool>1)
-	{
-		global.Organs[i].Plagued=false;
-	}
-}	
+	global.DisplayOrgan[i]=false;
+}
+
+	var n=irandom(globals.OrganAmount-1);
 	for(var i=0;i<3*global.OrganAmount;++i)
 	{
 		var first=irandom(global.OrganAmount-1);
