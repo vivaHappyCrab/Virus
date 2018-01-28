@@ -15,8 +15,10 @@ global.Clicked=false;
 global.Selected=0;
 global.Event="";
 global.Event_description="";
+global.RemoveSmoke=-1;
 global.RemoveAdditionalRegen=-1;
 global.RemoveLiverDebuff=-1;
+global.RemoveIndianDebuff=-1;
 
 global.OrganAmount=instance_number(Organ);
 randomize();

@@ -1,4 +1,4 @@
-var n=irandom_range(1,3);
+var n=irandom_range(1,4);
 
 switch(n)
 {
@@ -24,7 +24,7 @@ switch(n)
 		break;
 	}
 	case 3:{
-		for(var i=0;i<global.OrganAmount;++i)
+		for(var i=0;i<global.OrganAmount;++i){
 			if(global.Organs[i].Name=="Liver")
 				{
 					global.Organs[i].Regeneration+=2;
@@ -39,5 +39,26 @@ switch(n)
 				}
 			global.RemoveIndianDebuff=global.stepCount+300;
 			global.Event="Indian food";
-			global.Event_description="mmm, spicy \nIncrised regeneration of Liver, Stomach and Intestine"
+			global.Event_description="mmm, spicy \nIncrised regeneration of Liver, Stomach and Intestine";
+			break;
+		}
+	}
+	
+	case 4:{
+		for(var i=0;i<global.OrganAmount;++i){
+			if(global.Organs[i].Name=="Lungs")
+				{
+					global.Organs[i].Regeneration-=1;
+				}	
+			if(global.Organs[i].Name=="Thyroid")
+				{
+					global.Organs[i].Regeneration-=1;
+				}	
+		
+			global.RemoveSmoke=global.stepCount+300;
+			global.Event="Smokes";
+			global.Event_description="Chu-Chu \nDecriced regeneration of Lungs and Thyroid";
+			break;
+		}
+	}
 }
